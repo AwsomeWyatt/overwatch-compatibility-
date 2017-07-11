@@ -1,0 +1,7 @@
+{
+  "name": "overwatch-compatibility",
+  "short_name": "overwatch-compatibility",
+  "description": "test compatiabilty of players and picks best comp to play",
+  "start_url": "/",
+  "display": "standalone"
+}

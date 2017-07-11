@@ -1,0 +1,12 @@
+{
+  "name": "overwatch-compatibility",
+  "description": "test compatiabilty of players and picks best comp to play",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  }
+}
